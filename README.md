@@ -1,7 +1,7 @@
-# pocadot
+# DotDollar
 Money system for a school project.
 
-How to build?
+# How to build?
 You can't, it's a website.
 
 Currency intended for use is Dot Dollars, 
