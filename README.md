@@ -6,3 +6,6 @@ You can't, it's a website.
 
 Currency intended for use is Dot Dollars, 
 a proprietary currency in some select schools of which will not be listed.
+
+# Why?
+Yes.
