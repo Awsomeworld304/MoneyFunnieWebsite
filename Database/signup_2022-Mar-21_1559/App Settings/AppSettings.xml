@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BridgePackage>
-  <App Name="Application1" Version="1.0" GUID="APE62A5AC84001424EB86DE7F0E60386F07E63154E20B000001E000000004E20B0000001000010000000000000000000000000000000000000000000000000000000000000000099" Description="" FullApp="True" DataPackage="True" BridgeVersionCreated="30.0" BridgeVersionChanged="" ObjectDateCreated="2022-03-21T15:59:20" ObjectDateChanged="" ExportFormat="Custom" DistributionMode="Standard" AuthorID="4E20B000">
-    <AppObjects>
-      <Object Type="TB" GUID="TB5475B222FFCF430CB6000B0B0D545E927E63154E20B000001E000000004E20B000000100001000000000000000000000000000000000000000000000000000000000000000008D" Name="signup" AppInitialSignature="4E20B00000010000" ObjectInitialSignature="4E20B00000010000" ObjectDateAdded="" BridgeVersionCreated="30.1" BridgeVersionChanged="30.1" ObjectDateCreated="2022-02-17T14:03:59" ObjectDateChanged="" DefaultImportAction="NEW" File="signup_2022-Mar-21_1559.xlsx" DataDateUpdated="2022-02-17T16:41:01" FileType="MSExcelTables" />
-    </AppObjects>
-  </App>
-</BridgePackage>
