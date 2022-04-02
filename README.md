@@ -10,16 +10,5 @@ a proprietary currency in some select schools of which will not be listed.
 # Why?
 Why not. :)
 
-# Want to make your own website?
-Well good luck lol.
-Here is a basic html starter.
-"-----------------
-<!DOCTYPE html>
-<html>
-  <head>
-    <body>
-      <p>Hello World.</p>
-    </body>
-  </head>
-</html>
-----------------"
+# TODO
+Add features such as teachers being able to add money to student's account.
