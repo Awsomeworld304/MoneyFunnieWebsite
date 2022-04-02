@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "DotDollar",
-			"path": "DotDollar"
 		}
 	],
 	"settings": {}

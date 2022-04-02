@@ -10,7 +10,16 @@ a proprietary currency in some select schools of which will not be listed.
 # Why?
 Why not. :)
 
-# TODO
-1. Fix the UI
-2. Link up database correctly
-3. Add features such as teachers being able to add money into student's accounts.
+# Want to make your own website?
+Well good luck lol.
+Here is a basic html starter.
+"-----------------
+<!DOCTYPE html>
+<html>
+  <head>
+    <body>
+      <p>Hello World.</p>
+    </body>
+  </head>
+</html>
+----------------"
