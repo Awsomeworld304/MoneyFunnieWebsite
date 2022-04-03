@@ -11,4 +11,4 @@ a proprietary currency in some select schools of which will not be listed.
 Why not. :)
 
 # TODO
-Add features such as teachers being able to add money to student's account.
+Add features such as teachers being able to add money to student's account. Status: In progress.
